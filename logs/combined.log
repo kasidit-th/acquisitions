@@ -40,3 +40,120 @@
 {"level":"info","message":"User jhong@gmail.com created successfully","service":"acquisitions-api"}
 {"level":"info","message":"User registered successfully: jhong@gmail.com","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [02/Oct/2025:03:47:05 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 101 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:30:18 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:31:04 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:31:05 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:11 +0000] \"GET /health HTTP/1.1\" 200 72 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:21 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:22 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:23 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:24 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:25 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:26 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:27 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:28 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:29 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:30 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:31 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:32 +0000] \"GET /health HTTP/1.1\" 200 72 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:33 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:33 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:34 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:35 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:36 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:37 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:37 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:38 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:41 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:42 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:43 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:44 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:44 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:45 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:46 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:47 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:48 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:48 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:49 +0000] \"GET /health HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:49 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:50 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:51 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:52 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:52 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:53 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:54 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:55 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:55 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:56 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:57 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:58 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:32:59 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:00 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:01 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:01 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:02 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:02 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:03 +0000] \"GET /health HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:05 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:05 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:06 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:06 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:07 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:07 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:28 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:43 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/OneSignalSDKWorker.js","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:45 +0000] \"GET /OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509 HTTP/1.1\" 403 68 \"http://localhost:3000/OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:47 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:47 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/OneSignalSDKWorker.js","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:49 +0000] \"GET /OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509 HTTP/1.1\" 403 68 \"http://localhost:3000/OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:58 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:58 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:59 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:59 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:59 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:59 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:59 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:33:59 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:00 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:00 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:00 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:00 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/OneSignalSDKWorker.js","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:01 +0000] \"GET /OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509 HTTP/1.1\" 403 68 \"http://localhost:3000/OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"HelloHello from Acquisition","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:20 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:20 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Oct/2025:07:34:22 +0000] \"GET /OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509 HTTP/1.1\" 404 160 \"http://localhost:3000/OneSignalSDKWorker.js?appId=275b13a1-a919-4342-a513-34c1d8966580&sdkVersion=160509\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:55:05 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:55:05 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:55:05 +0000] \"GET /nonexistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:56:26 +0000] \"GET /health HTTP/1.1\" 200 72 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:56:26 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:56:27 +0000] \"GET /nonexistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:58:49 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:58:49 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:08:58:50 +0000] \"GET /nonexistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:09:00:37 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"jest-test\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:09:00:38 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"jest-test\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Oct/2025:09:00:38 +0000] \"GET /nonexistent HTTP/1.1\" 404 27 \"-\" \"jest-test\"","service":"acquisitions-api"}

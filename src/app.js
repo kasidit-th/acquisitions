@@ -6,6 +6,7 @@ import cors from "cors"
 import cookieParser from 'cookie-parser';
 import router from '#routes/auth.routes.js';
 import { timestamp } from 'drizzle-orm/gel-core';
+import securityMiddleware from '#middleware/security.middleware.js';
 
 const app = express();
 app.use(helmet());
@@ -14,6 +15,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}))
 app.use(cookieParser())
 app.use(morgan('combined' , {stream: {write:(message) => logger.info(message.trim())}}))
+app.use(securityMiddleware)
 
 app.get('/', (req, res) => {
     logger.info('HelloHello from Acquisition')
@@ -25,9 +27,13 @@ app.get('/health' , (req , res) =>{
 })
 
 app.get('/api', (req, res) => {
-  res.status(200).json({message: " Acquisitions API is running!"});
+  res.status(200).json({message: "Acquisitions API is running!"});
 });
 
 app.use('/api/auth' , router)
+
+app.use((req, res) => {
+  res.status(404).json({error: "Route not found"})
+})
 
 export default app;
