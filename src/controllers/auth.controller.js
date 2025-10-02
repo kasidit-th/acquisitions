@@ -1,5 +1,10 @@
 import logger from "#config/logger.js";
+import { users } from "#models/user.model.js";
+import { createUser } from "#services/auth.service.js";
 import { formatValidationError } from "#utils/format.js";
+import jwt from "jsonwebtoken";
+import {cookies} from '#utils/cookies.js'
+import { jwttoken } from "#utils/jwt.js";
 import { signupSchema } from "#validations/auth.validation.js";
 
 export const signup = async(req, res , next) => {
@@ -12,15 +17,16 @@ export const signup = async(req, res , next) => {
         })
       }
 
-      const {name, email , role } = validationResult.data;
-
-      
+      const {name, email ,password, role } = validationResult.data;
+      const user = await createUser({ name, email , password, role})
+      const token = jwttoken.sign({id: user.id, email: user.email, role: user.role })
+cookies.set(res, 'token' , token)
       logger.info(`User registered successfully: ${email}`)
 
       res.status(201).json({
         message: 'User registered',
         user: {
-            id: 1, name , email , role
+            id: user.id, name: user.name , email: user.email , role: user.role
 
         }
       })
